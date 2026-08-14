@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Madhura%20Gawande&fontSize=42&fontColor=ffffff&desc=Aspiring%20Java%20Full%20Stack%20Developer%20%F0%9F%9A%80&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=2500&pause=900&color=A970FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Madhura+%F0%9F%91%8B;Aspiring+Java+Full+Stack+Developer+%F0%9F%9A%80;Learning+Spring+Boot+%26+Spring+Core;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
+
+<br>
 
 <a href="https://github.com/Madhura1410?tab=repositories">
   <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/Madhura1410&style=for-the-badge" />
@@ -10,7 +14,13 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Madhura1410&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
+<br><br>
+
+![](https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
+
 </div>
+
+<br>
 
 <br>
 
@@ -26,6 +36,8 @@
 - ⚡ Fun fact: I document my learning journey publicly on LinkedIn & GitHub
 
 <br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec21.gif" width="100%" height="5px">
 
 ## 🛠️ Tech Stack
 

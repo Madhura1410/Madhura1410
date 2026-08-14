@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=160&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=30&duration=2500&pause=900&color=A970FF&center=true&vCenter=true&width=600&lines=Hi+There%2C+I'm+Madhura+%F0%9F%91%8B; Aspiring+Java+Full+Stack+Developer+%F0%9F%9A%80;Learning+Spring+Boot+%26+Spring+Core;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=2500&pause=900&color=A970FF&center=true&vCenter=true&width=800&lines=Hi+There%2C+I'm+Madhura+%F0%9F%91%8B;Aspiring+Java+Full+Stack+Developer+%F0%9F%9A%80;Learning+Spring+Boot+%26+Spring+Core;Turning+Coffee+Into+Code+%E2%98%95" alt="Typing SVG" />
 
 <br>
 

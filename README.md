@@ -71,6 +71,20 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
 </p>
 
+## 🍜 Fun Fact
+
+```text
+✦ I love building cool websites 🚀
+✦ Coffee + Coding = Perfect Combo ☕
+✦ Always learning new technologies 💡
+```
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Madhura1410/Madhura1410/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
 ## 🔗 Connect With Me
 
 <p align="center">
@@ -81,4 +95,16 @@
 
 <div align="center">
 <i>"The best programmers are up to 28 times better than the worst programmers, according to 'individual differences' research."</i> — Robert Glass
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+
+<div align="center">
+
+### ✨ Thanks For Visiting My Profile ✨
+
+**⭐ Don't Forget To Follow & Star Repositories ⭐**
+
 </div>
